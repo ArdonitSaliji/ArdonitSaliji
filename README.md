@@ -30,7 +30,7 @@ Change the world for the better with one new line of code at a time.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdonitSaliji&show_icons=true&theme=gruvbox)
+![Ardonit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdonitSaliji&count_private=true&show_icons=true&theme=gruvbox&include_all_comits=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=ArdonitSaliji&theme=gruvbox&border_radius=4.5) -->
 
