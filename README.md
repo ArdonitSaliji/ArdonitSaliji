@@ -32,7 +32,6 @@ Change the world for the better with one new line of code at a time.
 
 ![Ardonit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardonitsaliji&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=ardonitsaliji&theme=gruvbox&border_radius=4.5) -->
 
 #
 
