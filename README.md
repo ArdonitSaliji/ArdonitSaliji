@@ -30,8 +30,7 @@ Change the world for the better with one new line of code at a time.
 
 ### 📊 Stats
 
-![Ardonit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardonitsaliji&theme=gruvbox)
-
+[![Ardonit's  GitHub stats](https://github-readme-stats.vercel.app/api?username=ardonitsaliji)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
