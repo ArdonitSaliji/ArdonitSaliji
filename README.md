@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ardonit Saliji
 
-**`Full stack Developer`**
+**`Full Stack Developer`**
 
 It’s not a bug. It’s an undocumented feature!
 
