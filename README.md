@@ -26,12 +26,6 @@ Change the world for the better with one new line of code at a time.
 
 <br />
 
-#
 
-### 📊 Stats
-
-[![Ardonit's  GitHub stats](https://github-readme-stats.vercel.app/api?username=ardonitsaliji&theme=transparent&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
-
-#
 
 [website]: https://ardonitsaliji.github.io/portfolio/
