@@ -4,8 +4,6 @@
 
 It’s not a bug. It’s an undocumented feature!
 
-Change the world for the better with one new line of code at a time.
-
 ---
 
 ### 🧰 Languages and Tools
